@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "MOOC2-5.2.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "workbench.colorTheme": "Kimbie Dark",
+    "editor.formatOnSave": true,
+    "Lua.diagnostics.globals": [
+        "love",
+        "picture",
+        "r",
+        "y",
+        "x",
+        "speed",
+        "flag",
+        "imag",
+        "wheel",
+        "t",
+        "time",
+        "red",
+        "green",
+        "blue",
+        "t1",
+        "num",
+        "alpha",
+        "enter"
+    ],
+}
